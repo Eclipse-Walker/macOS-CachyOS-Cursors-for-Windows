@@ -13,6 +13,28 @@ The repository is organized into four main collections:
 | `3. Breeze Snow` | Breeze Snow cursor theme. |
 | `4. Plasma 6` | Breeze cursor theme from KDE Plasma 6. |
 
+## Cursor previews
+
+The preview sheets below are rendered from the actual `.cur` files included in this repository.
+
+### 1. Sierra and newer
+
+![Sierra and newer cursor preview](previews/sierra-and-newer.png)
+
+### 2. El Capitan and before
+
+![El Capitan and before cursor preview](previews/el-capitan-and-before.png)
+
+### 3. Breeze Snow
+
+![Breeze Snow cursor preview](previews/breeze-snow.png)
+
+### 4. Plasma 6
+
+![Plasma 6 cursor preview](previews/plasma-6.png)
+
+The macOS preview sheets show the **No Shadow / Normal** variant as a representative sample. Other shadow and size variants are available in their respective folders.
+
 ### macOS cursor variants
 
 The first two collections provide several variants:
